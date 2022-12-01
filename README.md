@@ -11,7 +11,7 @@ Since i was 11 years old i spend a lot of time on computer playing video games o
 so im trying to learn how to code by myself, its really hard, but we need to keep working on it to achive what i want.
 
 
-- 🌱 I’m using Html, CSS, Javascipt, Nodejs and in the future React!
+- 🌱 I’m using Html, Css, Javascript, Nodejs and in the future React!
 - 💬 Ask me about games, series, gym and fooood !
 - 😄 I'm 26 years old from Portugal, not Mars AHAH
 
