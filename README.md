@@ -2,14 +2,17 @@
  <a href="https://github.com/gugafromMARS">
     <img src="https://imagizer.imageshack.com/img924/5382/YeNK1v.png" alt="gugafrommars">
  </a>
- <br>
-    <a href="https://www.instagram.com/goncaloscravo"><img width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram"></a>
-    <a href="https://www.facebook.com/goncaloscravo/"><img  width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" alt="Facebook"></a>
-    <a href="https://www.linkedin.com/in/goncaloscravo/"><img  width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin"></a>
-<br>
- 
- 
+ </p>
+<p align="center">
+    <a href="https://www.instagram.com/goncaloscravo"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.facebook.com/goncaloscravo/"><img  width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" alt="Facebook"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.linkedin.com/in/goncaloscravo/"><img  width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+#
 
 **`A manager trying to learn how to code`**
 
@@ -39,4 +42,3 @@ so im trying to learn how to code by myself, its really hard, but we need to kee
 ### 📊 Stats
 
 ![gugafromMARS's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugafromMARS&show_icons=true&theme=gruvbox)
-
