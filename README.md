@@ -7,7 +7,7 @@
 **`A manager trying to learn how to code`**
 
 My name is Gonçalo Cravo, i have a bachelor degree in Management, but i realized after a work experience that is not what i want to do. 
-Since i was 11 years old i spend a lot of time on computer playing video games online, and now can see computer is my habitat,
+Since i was 11 years old i spend a lot of time on computer playing video games online, and now i can see computer is my habitat,
 so im trying to learn how to code by myself, its really hard, but we need to keep working on it to achive what i want.
 
 
