@@ -4,10 +4,6 @@
  </a>
  </p>
 <p align="center">
-    <a href="https://www.instagram.com/goncaloscravo"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.facebook.com/goncaloscravo/"><img  width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" alt="Facebook"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/goncaloscravo/"><img  width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
