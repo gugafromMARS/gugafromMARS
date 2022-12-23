@@ -19,7 +19,7 @@ so im trying to learn how to code by myself, its really hard, but we need to kee
 
 - 🌱 I’m using Html, Css, Javascript, Nodejs and in the future React!
 - 💬 Ask me about games, series, gym and fooood !
-- 😄 I'm 26 years old from Portugal, not Mars AHAH
+- 😄 I'm 26 years old from Portugal
 
 #
 
