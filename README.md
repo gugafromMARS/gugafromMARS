@@ -41,4 +41,4 @@ so im trying to learn how to code by myself, its really hard, but we need to kee
 
 ### 📊 Stats
 
-![gugafromMars's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![gugafromMars's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugafromMars&show_icons=true&theme=transparent)
