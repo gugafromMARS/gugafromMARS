@@ -19,7 +19,7 @@ so im trying to learn how to code by myself, its really hard, but we need to kee
 
 - 🌱 Currently learning java!
 - 💬 Ask me about games, series, gym and fooood !
-- 😄 I'm 26 years old from Portugal
+- 😄 I'm 27 years old from Portugal
 
 #
 
