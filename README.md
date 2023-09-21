@@ -27,13 +27,13 @@ so im trying to learn how to code by myself, its really hard, but we need to kee
 
 
 <img align="left"  alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="springboot" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
 <img align="left" alt="quarkus" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg"/>
 <img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-<img align="left" alt="maven" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354051/maven.svg"/>
+<img align="left" alt="maven" width="50px" style="padding-right:20px;" src="https://www.svgrepo.com/show/354051/maven.svg"/>
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 
 
