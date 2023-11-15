@@ -14,12 +14,12 @@
 
 My name is Gonçalo Cravo, i have a bachelor degree in Management, but i realized after a work experience that is not what i want to do. 
 Since i was 11 years old i spend a lot of time on computer playing video games online, and now i can see computer is my habitat,
-so im trying to learn how to code by myself, its really hard, but we need to keep working on it to achive what i want.
+so i joined in a Java Backend Bootcamp at @Mindera. Today I'm a junior backend developer!
 
 
 - 🌱 Junior Java Backend Developer!
-- 💬 Ask me about games, series, gym and fooood !
-- 😄 I'm 27 years old from Portugal
+- 💬 Ask me about games, series, gym and fooood!
+- 😄 I'm 27 years old from Portugal!
 
 #
 
