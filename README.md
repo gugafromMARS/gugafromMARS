@@ -34,7 +34,7 @@ so i joined in a Java Backend Bootcamp at @Mindera. Today I'm a junior backend d
 <img align="left" alt="docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
 <img align="left" alt="maven" width="50px" style="padding-right:20px;" src="https://www.svgrepo.com/show/354051/maven.svg"/>
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png"/>
+<img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png"/>
 
 
 
