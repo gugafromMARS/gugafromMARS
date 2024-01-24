@@ -49,3 +49,6 @@ so i joined in a Java Backend Bootcamp at @Mindera. Today I'm a junior backend d
 ### 📊 Stats
 
 ![gugafromMARS's GitHub stats](https://github-readme-stats-beta-sand-28.vercel.app/api?username=gugafromMARS&show_icons=true&theme=gruvbox)
+
+
+[![gugafromMARS's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugafromMARS&layout=compact)](https://github.com/gugafromMARS/github-readme-stats)
