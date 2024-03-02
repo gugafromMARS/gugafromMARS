@@ -15,6 +15,7 @@
 My name is Gonçalo Cravo, i have a bachelor degree in Management, but i realized after a work experience that is not what i want to do. 
 Since i was 11 years old i spend a lot of time on computer playing video games online, and now i can see computer is my habitat,
 so i joined in a Java Backend Bootcamp at @Mindera. Today I'm a junior backend developer!
+
 [Portfolio](https://gugafrommars.github.io/portfoliov2/)
 
 At the moment learning front end 👨🏻‍💻
