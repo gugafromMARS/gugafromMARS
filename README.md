@@ -30,13 +30,16 @@ At the moment learning front end 👨🏻‍💻
 ### 🧰 Languages and Tools
 
 
-<img align="left"  alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+
+<img align="left"  alt="Html" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452228/html-5.svg"/>
+<img align="left"  alt="Css" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg"/>
+<img align="left"  alt="JavaScript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349419/javascript.svg"/>
+<img align="left"  alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg"/>
+<img align="left"  alt="nextjs" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/342062/next-js.svg"/>
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="springboot" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
-<img align="left" alt="quarkus" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg"/>
 <img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-<img align="left" alt="maven" width="50px" style="padding-right:20px;" src="https://www.svgrepo.com/show/354051/maven.svg"/>
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Dbeaver" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png"/>
 
