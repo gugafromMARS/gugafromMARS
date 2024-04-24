@@ -40,7 +40,6 @@ At the moment learning front end 👨🏻‍💻
 <img align="left" alt="springboot" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
 <img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Dbeaver" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png"/>
 
 
