@@ -35,7 +35,6 @@ At the moment learning front end 👨🏻‍💻
 <img align="left"  alt="Css" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg"/>
 <img align="left"  alt="JavaScript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349419/javascript.svg"/>
 <img align="left"  alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg"/>
-<img align="left"  alt="nextjs" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/342062/next-js.svg"/>
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="springboot" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
 <img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
